@@ -194,7 +194,7 @@ left: 0;
 <br>
 <input type="submit" id="login-btn" value="Login">
 <br>
-<button class="register-btn"><a href="http://localhost/website/sign.php">Sign up</a></button> 
+<button class="register-btn"><a href="sign.php">Sign up</a></button> 
    </form> 
 </div>
 </section>
